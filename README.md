@@ -86,4 +86,4 @@ Under `SDK Settings` from left side menu. For now only _(option based)_ android 
  
 
  
-> For additional information or any queries wrtie to `rnsharma@zodiva.com`
+
