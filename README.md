@@ -30,7 +30,7 @@ This plugin launches Zodiva's Chat SDK when calling `cordova.zodiva.open()`.
 
 
 ```sh
-cordova plugin add https://github.com/rajnandan1/zodiva
+cordova plugin add https://github.com/abduljaleel/zodiva
 ```
     
 # How to Use
